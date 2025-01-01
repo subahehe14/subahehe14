@@ -1,2 +1,2 @@
 print("hello world")
-print("halo dunia")
+a = input("halo apa kabar?")
